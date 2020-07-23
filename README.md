@@ -1,8 +1,8 @@
 ### 你好~  👋
 
-✨我是菜逼前端开发工程师 小宁 😄
+✨我是一名卑微前端开发 小宁 😄
 
-✨欢迎来到我的主页
+✨欢迎来到我的GitHub主页
 <!--
 **7148505/7148505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
