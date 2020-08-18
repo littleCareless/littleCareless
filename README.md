@@ -20,12 +20,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 August, 2020 - 16 August, 2020
-
-Markdown     9 hrs 55 mins   █████████████░░░░░░░░░░░░   52.34 % 
-JavaScript   5 hrs 40 mins   ███████▒░░░░░░░░░░░░░░░░░   29.94 % 
-HTML         2 hrs 42 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-YAML         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+JavaScript   9 hrs 58 mins   ███████████░░░░░░░░░░░░░░   44.10 % 
+Markdown     9 hrs 54 mins   ███████████░░░░░░░░░░░░░░   43.78 % 
+HTML         2 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+YAML         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 ```
 <!--END_SECTION:waka-->
