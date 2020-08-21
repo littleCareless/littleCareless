@@ -29,3 +29,5 @@ HTML         1 hr 48 mins    ██░░░░░░░░░░░░░░░
 JSON         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 ```
 <!--END_SECTION:waka-->
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZhangNing-debug)](https://github.com/anuraghazra/github-readme-stats)
