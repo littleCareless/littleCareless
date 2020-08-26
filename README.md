@@ -20,13 +20,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 August, 2020 - 24 August, 2020
-
-Vue.js       8 hrs 49 mins   ████████████▒░░░░░░░░░░░░   49.86 % 
-JavaScript   6 hrs 16 mins   █████████░░░░░░░░░░░░░░░░   35.43 % 
-JSON         50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-Markdown     38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-HTML         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Vue.js       9 hrs 13 mins   ██████████████░░░░░░░░░░░   55.71 % 
+JavaScript   4 hrs 52 mins   ███████▒░░░░░░░░░░░░░░░░░   29.46 % 
+JSON         57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+LESS         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+HTML         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 ```
 <!--END_SECTION:waka-->
 
