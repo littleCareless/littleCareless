@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 December, 2020 - 19 December, 2020
+Week: 13 December, 2020 - 20 December, 2020
 
 JavaScript   20 hrs 34 mins  █████████████████░░░░░░░░   68.27 % 
 JSON         2 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
