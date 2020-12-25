@@ -30,6 +30,6 @@ PHP          6 mins          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZhangNing-debug)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=littleCareless)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhangNing-debug&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=littleCareless&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
