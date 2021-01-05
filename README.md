@@ -1,8 +1,10 @@
 ### 你好~  👋
 
 ✨我是一名刚工作一年的前端开发攻城狮 小宁 😄
+✨I am a front-end development lion who has just worked for one year, Ning 😄
 
 ✨欢迎来到我的GitHub主页
+✨Welcome to my GitHub page
 <!--
 **7148505/7148505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
