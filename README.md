@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
+Week: 12 April, 2021 - 19 April, 2021
+
 Vue.js       15 hrs          ██████████████▓░░░░░░░░░░   59.18 % 
 JavaScript   7 hrs 41 mins   ███████▓░░░░░░░░░░░░░░░░░   30.36 % 
 JSON         55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
