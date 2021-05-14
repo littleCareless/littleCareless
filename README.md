@@ -24,12 +24,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 May, 2021 - 12 May, 2021
-
-JavaScript   28 mins         ██████████████▓░░░░░░░░░░   58.82 % 
-Other        16 mins         ████████▒░░░░░░░░░░░░░░░░   32.87 % 
-Bash         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
