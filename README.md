@@ -1,6 +1,6 @@
 ### 你好~  👋
 
-✨我是一名刚工作俩年的前端开发攻城狮 小宁 😄
+✨我是一名工作两年半年的前端开发攻城狮 小宁 😄
 
 ✨I am a Web Developer，Amateur Web Designer who has just worked for one year, XiaoNing 😄
 
