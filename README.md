@@ -31,3 +31,5 @@ No Activity tracked this Week
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=littleCareless)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=littleCareless&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![](./profile-3d-contrib/profile-green-animate.svg)
