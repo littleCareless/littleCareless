@@ -1,8 +1,8 @@
-### 你好~  👋
+### 你好~ Hello~ 👋
 
-✨我是一名前端开发攻城狮 小宁 😄
+✨我是一名前端开发攻城狮 小张 😄
 
-✨I am a Web Developer，Amateur Web Designer who has just worked for one year, XiaoNing 😄
+✨I am a Web Developer，Amateur Web Designer who has just worked for one year, XiaoZhang 😄
 
 ✨欢迎来到我的GitHub主页
 
