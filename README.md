@@ -23,13 +23,15 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C638%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C640%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 55.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 38 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,18 +66,23 @@ Sunday                   34 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   4 mins              ███████████████████████░░   93.04 % 
-Markdown                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+TypeScript               1 hr 38 mins        ████████████████████░░░░░   80.87 % 
+Vue.js                   19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Image (svg)              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+VS Code                  2 hrs 1 min         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-console                  4 mins              ███████████████████████░░   93.04 % 
-svn-commit-gen           0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+pinyin-ex                1 hr 56 mins        ████████████████████████░   95.60 % 
+console                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+svn-commit-gen           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 💻 Operating System: 
-Linux                    5 mins              █████████████████████████   100.00 % 
+Windows                  1 hr 56 mins        ████████████████████████░   95.60 % 
+Linux                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -95,7 +102,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/littleCareless/littleCareless/master/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2025 18:43:06 UTC
+ Last Updated on 02/02/2025 18:45:14 UTC
 <!--END_SECTION:waka-->
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=littleCareless)
 
