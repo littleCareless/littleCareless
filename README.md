@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 57.6 kB Used in GitHub's Storage 
+> 📦 57.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 90 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -93,7 +95,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/littleCareless/littleCareless/master/assets/bar_graph.png)
 
 
- Last Updated on 07/04/2025 18:49:29 UTC
+ Last Updated on 08/04/2025 18:51:03 UTC
 <!--END_SECTION:waka-->
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=littleCareless)
 
