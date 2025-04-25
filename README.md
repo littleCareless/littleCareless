@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 > 📦 59.7 kB Used in GitHub's Storage 
  > 
+> 🏆 158 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 53 Public Repositories 
@@ -93,7 +95,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/littleCareless/littleCareless/master/assets/bar_graph.png)
 
 
- Last Updated on 24/04/2025 18:51:26 UTC
+ Last Updated on 25/04/2025 18:50:22 UTC
 <!--END_SECTION:waka-->
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=littleCareless)
 
