@@ -23,13 +23,15 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C662%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C662%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 60.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 175 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,21 +42,21 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                377 commits         █████████░░░░░░░░░░░░░░░░   37.81 % 
-🌆 Daytime                501 commits         █████████████░░░░░░░░░░░░   50.25 % 
-🌃 Evening                119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+🌞 Morning                379 commits         █████████░░░░░░░░░░░░░░░░   37.79 % 
+🌆 Daytime                505 commits         █████████████░░░░░░░░░░░░   50.35 % 
+🌃 Evening                119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   145 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Tuesday                  217 commits         █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
-Wednesday                217 commits         █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
-Thursday                 164 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-Friday                   196 commits         █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
-Saturday                 20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-Sunday                   38 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+Monday                   145 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Tuesday                  217 commits         █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+Wednesday                217 commits         █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+Thursday                 170 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Friday                   196 commits         █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+Saturday                 20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Sunday                   38 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 ```
 
 
@@ -64,16 +66,16 @@ Sunday                   38 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     5 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+base-development-extensio5 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      5 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -93,7 +95,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/littleCareless/littleCareless/master/assets/bar_graph.png)
 
 
- Last Updated on 07/05/2025 18:51:33 UTC
+ Last Updated on 08/05/2025 18:52:08 UTC
 <!--END_SECTION:waka-->
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=littleCareless)
 
