@@ -23,11 +23,15 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C675%20hrs%2045%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 60.4 kB Used in GitHub's Storage 
+> 📦 60.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 180 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -35,6 +39,45 @@ Here are some ideas to get you started:
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                305 commits         █████████░░░░░░░░░░░░░░░░   36.22 % 
+🌆 Daytime                423 commits         █████████████░░░░░░░░░░░░   50.24 % 
+🌃 Evening                114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   118 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Tuesday                  196 commits         ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
+Wednesday                174 commits         █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+Thursday                 142 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Friday                   155 commits         █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+Saturday                 19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Sunday                   38 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -52,7 +95,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/littleCareless/littleCareless/master/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2025 18:52:26 UTC
+ Last Updated on 22/05/2025 18:52:52 UTC
 <!--END_SECTION:waka-->
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=littleCareless)
 
