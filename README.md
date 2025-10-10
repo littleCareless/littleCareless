@@ -66,22 +66,16 @@ Sunday                   126 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   2 hrs 47 mins       ██████████████████░░░░░░░   70.79 % 
-TypeScript               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-JavaScript               15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-CSS                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 56 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-gov                      3 hrs 55 mins       █████████████████████████   99.67 % 
-repo3                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-korea-cloud-hosting-assoc0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 hrs 56 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -101,7 +95,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/littleCareless/littleCareless/master/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2025 18:52:38 UTC
+ Last Updated on 10/10/2025 18:51:15 UTC
 <!--END_SECTION:waka-->
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=littleCareless)
 
