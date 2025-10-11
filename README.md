@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C054%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C056%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -66,16 +66,21 @@ Sunday                   126 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   1 hr 52 mins        ██████████████████░░░░░░░   72.60 % 
+TypeScript               36 mins             ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 34 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+gov                      1 hr 38 mins        ████████████████░░░░░░░░░   63.70 % 
+korea-cloud-hosting-assoc56 mins             █████████░░░░░░░░░░░░░░░░   36.30 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -95,7 +100,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/littleCareless/littleCareless/master/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2025 18:51:15 UTC
+ Last Updated on 11/10/2025 18:45:41 UTC
 <!--END_SECTION:waka-->
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=littleCareless)
 
