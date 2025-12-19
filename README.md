@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C221%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C222%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 
 > 📦 96.7 kB Used in GitHub's Storage 
  > 
-> 🏆 637 Contributions in the Year 2025
+> 🏆 638 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 63 Public Repositories 
+> 📜 64 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
@@ -66,21 +66,23 @@ Sunday                   181 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   6 hrs 12 mins       █████████████████░░░░░░░░   69.32 % 
-TypeScript               54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Vue.js                   4 hrs 17 mins       █████████████░░░░░░░░░░░░   52.76 % 
+Markdown                 1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+TypeScript               40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 57 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 8 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nebula-chat              7 hrs 44 mins       ██████████████████████░░░   86.49 % 
-CloudV-Board             1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+nebula-chat              5 hrs 37 mins       █████████████████░░░░░░░░   69.10 % 
+PicFlow                  1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+CloudV-Board             1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+my-project               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 💻 Operating System: 
-Mac                      8 hrs 57 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -100,7 +102,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/littleCareless/littleCareless/master/assets/bar_graph.png)
 
 
- Last Updated on 18/12/2025 18:59:02 UTC
+ Last Updated on 19/12/2025 18:57:34 UTC
 <!--END_SECTION:waka-->
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=littleCareless)
 
