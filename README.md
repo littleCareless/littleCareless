@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C281%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C285%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -66,21 +66,21 @@ Sunday                   181 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   15 hrs 36 mins      ██████████████░░░░░░░░░░░   56.24 % 
-TypeScript               8 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   30.90 % 
-YAML                     1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-JSON                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-Other                    20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Vue.js                   13 hrs 37 mins      ██████████████░░░░░░░░░░░   54.54 % 
+TypeScript               7 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   28.85 % 
+YAML                     1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Image (svg)              20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 🔥 Editors: 
-VS Code                  27 hrs 44 mins      █████████████████████████   100.00 % 
+VS Code                  24 hrs 58 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-travel-client-web-thin   26 hrs 6 mins       ████████████████████████░   94.08 % 
-travel-client-web-thin-ad1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+travel-client-web-thin   23 hrs 34 mins      ████████████████████████░   94.36 % 
+travel-client-web-thin-ad1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
 
 💻 Operating System: 
-Mac                      27 hrs 44 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -100,7 +100,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/littleCareless/littleCareless/master/assets/bar_graph.png)
 
 
- Last Updated on 13/01/2026 18:58:36 UTC
+ Last Updated on 14/01/2026 19:00:24 UTC
 <!--END_SECTION:waka-->
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=littleCareless)
 
