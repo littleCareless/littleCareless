@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C310%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C316%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 
 > 📦 95.7 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 1 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 64 Public Repositories 
+> 📜 65 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
@@ -66,24 +66,24 @@ Sunday                   181 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-HTML                     11 hrs 12 mins      ███████████░░░░░░░░░░░░░░   45.38 % 
-Vue.js                   6 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   27.47 % 
-TypeScript               4 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-Markdown                 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Other                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+HTML                     13 hrs 4 mins       ████████████░░░░░░░░░░░░░   47.33 % 
+Vue.js                   5 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
+TypeScript               3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+YAML                     1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Markdown                 1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 41 mins      █████████████████████████   100.00 % 
+VS Code                  27 hrs 38 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-travel-client-web-thin   19 hrs 35 mins      ████████████████████░░░░░   79.32 % 
-travel-client-web-landing3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-travel-client-web-thin-ad1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-gov                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+travel-client-web-thin   19 hrs 24 mins      ██████████████████░░░░░░░   70.21 % 
+travel-client-web-landing4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+landing_page             2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+tested-telescope         1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+travel-client-web-thin-ad20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 💻 Operating System: 
-Mac                      24 hrs 41 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -103,7 +103,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/littleCareless/littleCareless/master/assets/bar_graph.png)
 
 
- Last Updated on 21/01/2026 19:09:16 UTC
+ Last Updated on 22/01/2026 19:02:19 UTC
 <!--END_SECTION:waka-->
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=littleCareless)
 
