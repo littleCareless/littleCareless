@@ -25,17 +25,17 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C546%20hrs%2044%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 177.9 kB Used in GitHub's Storage 
+> 📦 178.0 kB Used in GitHub's Storage 
  > 
-> 🏆 35 Contributions in the Year 2026
+> 🏆 37 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 76 Public Repositories 
+> 📜 78 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
@@ -66,22 +66,22 @@ Sunday                   206 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    14 hrs 41 mins      ████████░░░░░░░░░░░░░░░░░   33.57 % 
-TypeScript               14 hrs 3 mins       ████████░░░░░░░░░░░░░░░░░   32.10 % 
-Markdown                 10 hrs 34 mins      ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
+TypeScript               14 hrs 59 mins      █████████░░░░░░░░░░░░░░░░   34.24 % 
+Other                    13 hrs 1 min        ███████░░░░░░░░░░░░░░░░░░   29.74 % 
+Markdown                 10 hrs 20 mins      ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
+JSON                     2 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
 CSS                      1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-JSON                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 45 mins      ██████████████░░░░░░░░░░░   56.53 % 
-Unknown Editor           19 hrs 1 min        ███████████░░░░░░░░░░░░░░   43.47 % 
+Unknown Editor           24 hrs 50 mins      ██████████████░░░░░░░░░░░   56.75 % 
+VS Code                  18 hrs 55 mins      ███████████░░░░░░░░░░░░░░   43.25 % 
 
 🐱‍💻 Projects: 
-grapes-demo              31 hrs 30 mins      ██████████████████░░░░░░░   71.97 % 
-Unknown Project          9 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
-ai-infra                 1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-gstack                   28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-observer-sessions        21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+grapes-demo              31 hrs 37 mins      ██████████████████░░░░░░░   72.26 % 
+Unknown Project          8 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+ai-infra                 1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+observer-sessions        1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+gstack                   26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 💻 Operating System: 
 Mac                      43 hrs 46 mins      █████████████████████████   100.00 % 
@@ -104,7 +104,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/littleCareless/littleCareless/master/assets/bar_graph.png)
 
 
- Last Updated on 26/04/2026 19:31:55 UTC
+ Last Updated on 27/04/2026 19:58:09 UTC
 <!--END_SECTION:waka-->
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=littleCareless)
 
