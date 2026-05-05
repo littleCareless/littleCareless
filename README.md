@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C575%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C580%20hrs%2053%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -39,6 +39,54 @@ Here are some ideas to get you started:
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                4377 commits        ███████████░░░░░░░░░░░░░░   42.98 % 
+🌆 Daytime                5238 commits        █████████████░░░░░░░░░░░░   51.43 % 
+🌃 Evening                569 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   1696 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+Tuesday                  1728 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Wednesday                2202 commits        █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+Thursday                 1802 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+Friday                   2482 commits        ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
+Saturday                 68 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Sunday                   206 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+TypeScript               12 hrs 38 mins      ███████████████░░░░░░░░░░   61.15 % 
+Markdown                 4 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
+Other                    2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Vue                      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+
+🔥 Editors: 
+Unknown Editor           16 hrs 59 mins      █████████████████████░░░░   82.23 % 
+VS Code                  3 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+
+🐱‍💻 Projects: 
+grapes-demo              13 hrs 35 mins      ████████████████░░░░░░░░░   65.77 % 
+cf-huodong-zhushou       4 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
+observer-sessions        2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+korea-cloud-hosting-assoc4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+grapesjs-ai-copilot      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+
+💻 Operating System: 
+Mac                      20 hrs 40 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -56,7 +104,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/littleCareless/littleCareless/master/assets/bar_graph.png)
 
 
- Last Updated on 04/05/2026 20:07:17 UTC
+ Last Updated on 05/05/2026 20:02:27 UTC
 <!--END_SECTION:waka-->
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=littleCareless)
 
