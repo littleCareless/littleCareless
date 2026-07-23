@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C856%20hrs%2010%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -78,14 +76,14 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in JavaScript** 
 
 ```text
-TypeScript               10 repos            ████████░░░░░░░░░░░░░░░░░   30.30 % 
-JavaScript               9 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Swift                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+JavaScript               9 repos             ███████░░░░░░░░░░░░░░░░░░   28.12 % 
+TypeScript               9 repos             ███████░░░░░░░░░░░░░░░░░░   28.12 % 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Swift                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
 
@@ -95,7 +93,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/littleCareless/littleCareless/master/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2026 19:57:07 UTC
+ Last Updated on 23/07/2026 19:59:38 UTC
 <!--END_SECTION:waka-->
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=littleCareless)
 
