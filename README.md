@@ -68,22 +68,48 @@ Sunday                   206 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               12 hrs 1 min        ██████████████░░░░░░░░░░░   56.91 % 
+JSON                     6 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   31.63 % 
+Markdown                 1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+CSS                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+JavaScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              13 hrs 56 mins      ████████████████░░░░░░░░░   65.99 % 
+VS Code                  6 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   30.16 % 
+Codex Vscode             43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+Antigravity Desktop      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+grapes-demo              21 hrs 7 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      21 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 21 hrs 7 mins (100.0%)
+
+✍️ 7,229 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 810,352,667 Input Tokens, 2,106,868 Output Tokens
+
+💵 $8219.34 Estimated AI Cost This Week
+
+🧠 55 AI Sessions, 133 AI Prompts
+
+Claude                   6,442 lines         █████████████████████░░░░   82.22 % 
+Fable                    660 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+GPT                      462 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Sonnet                   271 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 6,774 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -103,7 +129,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/littleCareless/littleCareless/master/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 21:09:58 UTC
+ Last Updated on 10/09/2026 21:11:05 UTC
 <!--END_SECTION:waka-->
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=littleCareless)
 
