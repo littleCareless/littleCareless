@@ -68,51 +68,51 @@ Sunday                   206 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               13 hrs 3 mins       ████████████░░░░░░░░░░░░░   47.10 % 
-Markdown                 10 hrs 5 mins       █████████░░░░░░░░░░░░░░░░   36.41 % 
-Other                    1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-JSON                     1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-Python                   22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Markdown                 9 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   41.06 % 
+TypeScript               7 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   35.04 % 
+Other                    3 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+JSON                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Python                   22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 56 mins      ████████████░░░░░░░░░░░░░   46.70 % 
-Antigravity Desktop      7 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   26.20 % 
-VS Code                  4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Codex Vscode             3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Claude Code              8 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   37.97 % 
+Antigravity Desktop      7 hrs               ████████░░░░░░░░░░░░░░░░░   30.86 % 
+VS Code                  5 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
+Codex Vscode             1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
 
 🐱‍💻 Projects: 
-grapes-demo              24 hrs 25 mins      ██████████████████████░░░   88.13 % 
-observer-sessions        1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-cloudflare-lucky-ipv6-nas23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-debian-pve-debian-vm-vpn-16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-RightClick-Pro           15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+grapes-demo              17 hrs 37 mins      ███████████████████░░░░░░   77.68 % 
+observer-sessions        3 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+cloudflare-lucky-ipv6-nas23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+debian-pve-debian-vm-vpn-16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+RightClick-Pro           15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 💻 Operating System: 
-Mac                      27 hrs 42 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 42 mins (99.94%)
+⏱ AI Coding Time: 22 hrs 40 mins (99.93%)
 
-✍️ 13,550 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,844 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 395,973,148 Input Tokens, 2,902,391 Output Tokens
+🔤 13,060,868 Input Tokens, 1,590,875 Output Tokens
 
-💵 $4122.60 Estimated AI Cost This Week
+💵 $209.11 Estimated AI Cost This Week
 
-🧠 616 AI Sessions, 883 AI Prompts
+🧠 666 AI Sessions, 896 AI Prompts
 
-GPT                      5,049 lines         █████████░░░░░░░░░░░░░░░░   35.31 % 
-Sonnet                   4,375 lines         ████████░░░░░░░░░░░░░░░░░   30.60 % 
-Claude                   3,702 lines         ██████░░░░░░░░░░░░░░░░░░░   25.89 % 
-Fable                    660 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-Qwen                     312 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Sonnet                   4,082 lines         █████████████████░░░░░░░░   66.68 % 
+GPT                      1,521 lines         ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
+Qwen                     312 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Codex-Vscode             201 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Claude-Code              6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 23,101 characters per prompt
+📚 Verbose Prompter — average 25,412 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -134,7 +134,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/littleCareless/littleCareless/master/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2026 21:40:36 UTC
+ Last Updated on 17/09/2026 21:42:12 UTC
 <!--END_SECTION:waka-->
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=littleCareless)
 
