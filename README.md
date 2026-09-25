@@ -68,53 +68,53 @@ Sunday                   206 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               11 hrs 21 mins      ████████████░░░░░░░░░░░░░   46.01 % 
-Other                    7 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   31.13 % 
-Markdown                 4 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-Bash                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+TypeScript               7 hrs 54 mins       ███████████░░░░░░░░░░░░░░   43.84 % 
+Other                    5 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   32.99 % 
+Markdown                 3 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
+JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 🔥 Editors: 
-Antigravity Desktop      10 hrs 31 mins      ███████████░░░░░░░░░░░░░░   42.66 % 
-Codex Vscode             8 hrs               ████████░░░░░░░░░░░░░░░░░   32.44 % 
-VS Code                  3 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Claude Code              2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Antigravity Desktop      8 hrs 55 mins       ████████████░░░░░░░░░░░░░   49.51 % 
+Codex Vscode             6 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   34.57 % 
+VS Code                  1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Claude Code              1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
 
 🐱‍💻 Projects: 
-grapes-demo              20 hrs 57 mins      █████████████████████░░░░   84.92 % 
-observer-sessions        2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-CloudV-Board             33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-cloudflare-lucky-ipv6-nas24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-obsidian-codex-users-zhan12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+grapes-demo              16 hrs 7 mins       ██████████████████████░░░   89.46 % 
+observer-sessions        58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+cloudflare-lucky-ipv6-nas24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+obsidian-codex-users-zhan12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+CloudV-Board             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 💻 Operating System: 
-Mac                      24 hrs 40 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 25 mins (98.94%)
+⏱ AI Coding Time: 18 hrs (99.88%)
 
-✍️ 8,153 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 6,439 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 12,295,228 Input Tokens, 1,418,919 Output Tokens
+🔤 8,095,200 Input Tokens, 807,581 Output Tokens
 
-💵 $233.60 Estimated AI Cost This Week
+💵 $159.52 Estimated AI Cost This Week
 
-🧠 422 AI Sessions, 626 AI Prompts
+🧠 192 AI Sessions, 340 AI Prompts
 
-GPT                      3,550 lines         ███████████░░░░░░░░░░░░░░   42.29 % 
-Qwen                     3,466 lines         ██████████░░░░░░░░░░░░░░░   41.29 % 
-Sonnet                   708 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-Codex-Vscode             670 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Qwen                     3,466 lines         █████████████░░░░░░░░░░░░   52.69 % 
+GPT                      2,563 lines         ██████████░░░░░░░░░░░░░░░   38.96 % 
+Codex-Vscode             549 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 12,909 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.01% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 8,923 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -134,7 +134,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/littleCareless/littleCareless/master/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 21:46:55 UTC
+ Last Updated on 25/09/2026 21:49:47 UTC
 <!--END_SECTION:waka-->
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=littleCareless)
 
