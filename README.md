@@ -31,32 +31,32 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 250.1 kB Used in GitHub's Storage 
+> 📦 250.2 kB Used in GitHub's Storage 
  > 
-> 🏆 54 Contributions in the Year 2026
+> 🏆 64 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 86 Public Repositories 
+> 📜 87 Public Repositories 
  > 
-> 🔑 4 Private Repositories 
+> 🔑 6 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4385 commits        ███████████░░░░░░░░░░░░░░   42.94 % 
-🌆 Daytime                5257 commits        █████████████░░░░░░░░░░░░   51.48 % 
+🌞 Morning                4387 commits        ███████████░░░░░░░░░░░░░░   42.93 % 
+🌆 Daytime                5262 commits        █████████████░░░░░░░░░░░░   51.50 % 
 🌃 Evening                569 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   1701 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-Tuesday                  1728 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-Wednesday                2210 commits        █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
-Thursday                 1815 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
-Friday                   2483 commits        ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
+Monday                   1706 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+Tuesday                  1728 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+Wednesday                2212 commits        █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+Thursday                 1815 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Friday                   2483 commits        ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
 Saturday                 68 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 Sunday                   206 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 ```
@@ -68,61 +68,62 @@ Sunday                   206 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               6 hrs 48 mins       ██████████████░░░░░░░░░░░   57.60 % 
-Markdown                 4 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   35.28 % 
-JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+TypeScript               6 hrs 58 mins       ██████████████░░░░░░░░░░░   54.63 % 
+Markdown                 4 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   37.42 % 
+JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Codex Vscode             9 hrs 2 mins        ███████████████████░░░░░░   76.45 % 
-Claude Code              1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-VS Code                  58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Codex Vscode             9 hrs 31 mins       ███████████████████░░░░░░   74.58 % 
+Claude Code              1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+VS Code                  1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
 
 🐱‍💻 Projects: 
-grapes-demo              11 hrs 11 mins      ████████████████████████░   94.66 % 
-observer-sessions        18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-obsidian-codex-users-zhan10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-obsidian-codex-users-zhan6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-gstack                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+grapes-demo              12 hrs 6 mins       ████████████████████████░   94.71 % 
+observer-sessions        18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+obsidian-codex-users-zhan10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+obsidian-codex-users-zhan9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+gstack                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 💻 Operating System: 
-Mac                      11 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 26 mins (96.75%)
+⏱ AI Coding Time: 12 hrs 3 mins (94.29%)
 
-✍️ 5,002 lines written by AI, 14 lines written by hand (99.72% AI-written)
+✍️ 5,086 lines written by AI, 14 lines written by hand (99.73% AI-written)
 
-🔤 15,347,946 Input Tokens, 3,031,797 Output Tokens
+🔤 16,109,912 Input Tokens, 3,084,075 Output Tokens
 
-💵 $77.44 Estimated AI Cost This Week
+💵 $79.77 Estimated AI Cost This Week
 
-🧠 60 AI Sessions, 183 AI Prompts
+🧠 67 AI Sessions, 194 AI Prompts
 
-GPT                      4,930 lines         ███████████████████████░░   91.91 % 
-Sonnet                   434 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+GPT                      5,014 lines         ███████████████████████░░   92.03 % 
+Sonnet                   434 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.72% of written lines came from AI
-📚 Verbose Prompter — average 6,597 characters per prompt
+🤖 AI-Driven — 99.73% of written lines came from AI
+📚 Verbose Prompter — average 7,111 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.3% of changed lines were hand-edited
+🚀 High AI Trust — 0.29% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               9 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Swift                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-ASL                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+JavaScript               9 repos             ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+ASL                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 
@@ -132,7 +133,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/littleCareless/littleCareless/master/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 22:24:50 UTC
+ Last Updated on 13/10/2026 00:59:26 UTC
 <!--END_SECTION:waka-->
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=littleCareless)
 
