@@ -68,52 +68,52 @@ Sunday                   206 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               16 hrs 56 mins      ████████████░░░░░░░░░░░░░   47.06 % 
-Markdown                 9 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
-Other                    4 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-JavaScript               2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-JSON                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+TypeScript               14 hrs 28 mins      ███████████░░░░░░░░░░░░░░   45.48 % 
+Markdown                 8 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   27.25 % 
+Other                    3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+JavaScript               2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+JSON                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 
 🔥 Editors: 
-Codex Vscode             23 hrs 14 mins      ████████████████░░░░░░░░░   64.56 % 
-Claude Code              10 hrs 41 mins      ███████░░░░░░░░░░░░░░░░░░   29.72 % 
-VS Code                  2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+Codex Vscode             18 hrs 58 mins      ███████████████░░░░░░░░░░   59.64 % 
+Claude Code              10 hrs 17 mins      ████████░░░░░░░░░░░░░░░░░   32.34 % 
+VS Code                  2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
 
 🐱‍💻 Projects: 
-grapes-demo              31 hrs              ██████████████████████░░░   86.14 % 
-observer-sessions        4 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-new-chat                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-obsidian-codex-users-zhan15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-personal-ai-os           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+grapes-demo              28 hrs 33 mins      ██████████████████████░░░   89.77 % 
+observer-sessions        1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+pairing-file-plist-iphone56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+new-chat                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+obsidian-codex-users-zhan15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 💻 Operating System: 
-Mac                      36 hrs              █████████████████████████   100.00 % 
+Mac                      31 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 hrs 6 mins (97.49%)
+⏱ AI Coding Time: 31 hrs 8 mins (97.91%)
 
-✍️ 41,260 lines written by AI, 186 lines written by hand (99.55% AI-written)
+✍️ 32,017 lines written by AI, 189 lines written by hand (99.41% AI-written)
 
-🔤 40,894,559 Input Tokens, 8,892,276 Output Tokens
+🔤 35,685,339 Input Tokens, 9,941,389 Output Tokens
 
-💵 $303.20 Estimated AI Cost This Week
+💵 $283.14 Estimated AI Cost This Week
 
-🧠 871 AI Sessions, 1061 AI Prompts
+🧠 469 AI Sessions, 672 AI Prompts
 
-GPT                      37,418 lines        █████████████████████░░░░   84.50 % 
-Haiku                    3,758 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-Sonnet                   3,105 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+GPT                      26,633 lines        ███████████████████░░░░░░   77.85 % 
+Haiku                    6,383 lines         █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+Sonnet                   1,191 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
 Qwen                     3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.55% of written lines came from AI
-📚 Verbose Prompter — average 131,477 characters per prompt
+🤖 AI-Driven — 99.41% of written lines came from AI
+📚 Verbose Prompter — average 66,836 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.44% of changed lines were hand-edited
+🚀 High AI Trust — 0.58% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -133,7 +133,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/littleCareless/littleCareless/master/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2026 21:01:41 UTC
+ Last Updated on 19/10/2026 22:37:32 UTC
 <!--END_SECTION:waka-->
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=littleCareless)
 
