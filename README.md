@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C905%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C913%20hrs%2015%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-581%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-589%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -68,52 +68,51 @@ Sunday                   206 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               19 hrs 47 mins      ██████████████░░░░░░░░░░░   56.15 % 
-Markdown                 6 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-Other                    2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-JavaScript               2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-JSON                     2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+TypeScript               23 hrs 41 mins      ███████████████░░░░░░░░░░   59.92 % 
+Markdown                 5 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Other                    4 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+JSON                     2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+JavaScript               1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
 
 🔥 Editors: 
-Codex Vscode             17 hrs 8 mins       ████████████░░░░░░░░░░░░░   48.61 % 
-Claude Code              9 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
-VS Code                  9 hrs               ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
+Codex Vscode             17 hrs 17 mins      ███████████░░░░░░░░░░░░░░   43.75 % 
+VS Code                  13 hrs 18 mins      ████████░░░░░░░░░░░░░░░░░   33.68 % 
+Claude Code              8 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
 
 🐱‍💻 Projects: 
-grapes-demo              32 hrs 16 mins      ███████████████████████░░   91.55 % 
-observer-sessions        1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-pairing-file-plist-iphone56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-new-chat                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-obsidian-codex-users-zhan9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+grapes-demo              34 hrs 54 mins      ██████████████████████░░░   88.28 % 
+observer-sessions        1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+家里云 52mobileweb.com      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+pairing-file-plist-iphone56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+gov                      33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 💻 Operating System: 
-Mac                      35 hrs 15 mins      █████████████████████████   100.00 % 
+Mac                      39 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 hrs 31 mins (97.91%)
+⏱ AI Coding Time: 38 hrs 34 mins (97.58%)
 
-✍️ 64,913 lines written by AI, 183 lines written by hand (99.72% AI-written)
+✍️ 68,378 lines written by AI, 38 lines written by hand (99.94% AI-written)
 
-🔤 43,271,961 Input Tokens, 12,572,116 Output Tokens
+🔤 45,770,036 Input Tokens, 13,435,948 Output Tokens
 
-💵 $179.05 Estimated AI Cost This Week
+💵 $159.02 Estimated AI Cost This Week
 
-🧠 474 AI Sessions, 739 AI Prompts
+🧠 465 AI Sessions, 760 AI Prompts
 
-GPT                      66,458 lines        ███████████████████████░░   90.37 % 
-Haiku                    7,080 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Qwen                     3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      71,174 lines        ███████████████████████░░   90.95 % 
+Haiku                    7,080 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.72% of written lines came from AI
-📚 Verbose Prompter — average 16,224 characters per prompt
+🤖 AI-Driven — 99.94% of written lines came from AI
+📚 Verbose Prompter — average 15,422 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.27% of changed lines were hand-edited
+🚀 High AI Trust — 0.08% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -133,7 +132,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/littleCareless/littleCareless/master/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2026 21:59:22 UTC
+ Last Updated on 22/10/2026 21:55:36 UTC
 <!--END_SECTION:waka-->
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=littleCareless)
 
