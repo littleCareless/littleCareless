@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C919%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C926%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-596%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-602%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 > 📦 250.5 kB Used in GitHub's Storage 
  > 
-> 🏆 64 Contributions in the Year 2026
+> 🏆 65 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -117,11 +117,11 @@ Codex-Vscode             0 lines             ░░░░░░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               9 repos             ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-ASL                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+JavaScript               9 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+ASL                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 
@@ -131,7 +131,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/littleCareless/littleCareless/master/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2026 21:39:01 UTC
+ Last Updated on 24/10/2026 21:09:49 UTC
 <!--END_SECTION:waka-->
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=littleCareless)
 
