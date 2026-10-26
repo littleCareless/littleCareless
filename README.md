@@ -68,50 +68,50 @@ Sunday                   206 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               24 hrs 39 mins      ████████████████░░░░░░░░░   65.33 % 
-Markdown                 3 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-JSON                     3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-Other                    2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-JavaScript               1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+TypeScript               22 hrs 22 mins      ██████████████████░░░░░░░   70.52 % 
+JSON                     2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Markdown                 2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+Other                    1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+JavaScript               1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 
 🔥 Editors: 
-Codex Vscode             19 hrs 22 mins      █████████████░░░░░░░░░░░░   51.31 % 
-VS Code                  14 hrs 37 mins      ██████████░░░░░░░░░░░░░░░   38.73 % 
-Claude Code              3 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Codex Vscode             16 hrs 40 mins      █████████████░░░░░░░░░░░░   52.52 % 
+VS Code                  15 hrs 1 min        ████████████░░░░░░░░░░░░░   47.34 % 
+Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🐱‍💻 Projects: 
-grapes-demo              33 hrs 50 mins      ██████████████████████░░░   89.63 % 
-家里云 52mobileweb.com      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-pairing-file-plist-iphone56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-gov                      43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-observer-sessions        22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+grapes-demo              29 hrs 1 min        ███████████████████████░░   91.44 % 
+家里云 52mobileweb.com      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+gov                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+obsidian-codex-users-zhan24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+travel-client-web-thin-2016 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 💻 Operating System: 
-Mac                      37 hrs 45 mins      █████████████████████████   100.00 % 
+Mac                      31 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 hrs 41 mins (97.16%)
+⏱ AI Coding Time: 30 hrs 43 mins (96.81%)
 
-✍️ 62,242 lines written by AI, 41 lines written by hand (99.93% AI-written)
+✍️ 55,092 lines written by AI, 53 lines written by hand (99.9% AI-written)
 
-🔤 40,880,524 Input Tokens, 11,026,380 Output Tokens
+🔤 34,044,661 Input Tokens, 7,735,915 Output Tokens
 
-💵 $89.27 Estimated AI Cost This Week
+💵 $35.07 Estimated AI Cost This Week
 
-🧠 263 AI Sessions, 573 AI Prompts
+🧠 155 AI Sessions, 382 AI Prompts
 
-GPT                      69,503 lines        ████████████████████████░   96.36 % 
-Haiku                    2,625 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+GPT                      64,745 lines        █████████████████████████   100.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.93% of written lines came from AI
-📚 Verbose Prompter — average 9,893 characters per prompt
+🤖 AI-Driven — 99.9% of written lines came from AI
+📚 Verbose Prompter — average 2,087 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.1% of changed lines were hand-edited
+🚀 High AI Trust — 0.13% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -131,7 +131,7 @@ ASL                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/littleCareless/littleCareless/master/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 21:12:08 UTC
+ Last Updated on 26/10/2026 22:53:36 UTC
 <!--END_SECTION:waka-->
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=littleCareless)
 
